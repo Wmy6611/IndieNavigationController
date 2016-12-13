@@ -1,1 +1,1 @@
-# IndieNavigationController
+# IndependentNavigationController
